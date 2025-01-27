@@ -43,12 +43,12 @@ ly_string = f"pattern = {{{ly_string}}}"
 variables = ly_string
 
 #read score template
-with open("template\\score.ly") as f:
+with open("template/score.ly") as f:
     score = f.read()
 
 score = score.replace("%%%exercise 1 rechts%%%", variables)
 
-with open("scores\\Artikulationsuebung.ly", "w") as f:
+with open("scores/Artikulationsuebung.ly", "w") as f:
     f.write(score)
 
 ...
