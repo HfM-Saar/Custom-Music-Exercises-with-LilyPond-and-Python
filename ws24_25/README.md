@@ -1,3 +1,18 @@
+
+#### Participants' Projects 
+
+Benjamin: Scale workout for piano
+
+Ayaka: Bass drum exercise for drum set
+
+Dogyeong: Transposition exercise with chords / harmony theory
+
+Sophie and Patricia: Articulation exercise (universal? For piano and clarinet)
+
+Tobias: Register exercise for flute (overblowing issues)
+
+
+
 # Vorbereitungsmaterial für den Kurs "Entwicklung dynamischer Notenübungen mit digitalen Mitteln"
 
 ## Zeitplan
