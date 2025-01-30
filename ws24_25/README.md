@@ -1,15 +1,19 @@
 
 #### Participants' Projects 
 
-Benjamin: Scale workout for piano
+Benjamin Sawatzki: Scale workout for piano
 
-Ayaka: Bass drum exercise for drum set
+Ayaka Iida: Bass drum exercise for drum set
 
-Dogyeong: Transposition exercise with chords / harmony theory
+Sophie Abend and Patricia Hirt: Articulation exercise (piano and clarinet)
 
-Sophie and Patricia: Articulation exercise (universal? For piano and clarinet)
+Tobias Neubert: Register exercise for flute (overblowing issues)
 
-Tobias: Register exercise for flute (overblowing issues)
+Dogyeong Kim: Transposition exercise with chords / harmony theory 
+
+Xinjie Li: transposition excercise (organ) 
+
+Günes Oba: Loop and let loop (ensemble)
 
 
 
