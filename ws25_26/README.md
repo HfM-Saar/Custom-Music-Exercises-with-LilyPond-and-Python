@@ -1,19 +1,21 @@
 
 #### Participants' Projects 
-...
-
+Ding Wei:... 
+Moritz Schumacher:...
+Steffen Balzer: ...
+Larissa Cvejic: ...
 
 
 # Vorbereitungsmaterial für den Kurs "Entwicklung dynamischer Notenübungen mit digitalen Mitteln"
 
 ## Zeitplan
 
-- 13.12.2024, 10:00 - 11:00 Einführung und Überblick (online)
-- 10./11.01.2025 - Basics (Lilypond und Pythongrundlagen) (online)
-- 17./18.01.2025 - Softwareprojekt (Präsenz, Saarbrücken)
+- 17.11.2025, 10:00 - 11:00 Einführung und Überblick (online)
+- 24./25.11.2025 - Basics (Lilypond und Pythongrundlagen) (online)
+- 01./02.12.2025 - Softwareprojekt (online)
 
 ## Termin 1
-- 14.12.2024, 10:00 - 11:00 Einführung und Überblick (online)
+- 17.11.2025, 10:00 - 11:00 Einführung und Überblick (online)
 - Vorstellungsrunde, auch der Teilnehmenden (Name, Welcher Studiengang, Vorkenntnisse?) 
 - Martin stellt Idee in kleiner Präsentation vor: 
 Entwicklung individueller Notenübungen mit digitalen Werkzeugen (Python und LilyPond) zur künstlerisch-pädagogischen Anwendung 
@@ -31,18 +33,18 @@ Vermitteln von Grundkenntnissen im Programmieren in Python und Score-Rendering m
 
 - Akzentübungsbeispiel zeigen. 
 
-**Aufgabe:** Jeder überlege sich seinen konkreten Anwendungsfall bis zum 10.01. Bitte gleichzeitig den künstlerisch-pädagogischen Aspekt oder Trainingseffekt bedenken. 
+**Aufgabe:** Jeder überlege sich seinen konkreten Anwendungsfall bis zum 17.11. Bitte gleichzeitig den künstlerisch-pädagogischen Aspekt oder Trainingseffekt bedenken. 
 
 Außerdem Software runterladen und installieren. 
 
 
 ## Termin 2
-- 10.01.2025 Lilypond und Pythongrundlagen (online) MIT LilyPond-Quiz
-- 10.01.2025 Lilypond und Pythongrundlagen (online)
+- 24.11.2025 Lilypond und Pythongrundlagen (online) MIT LilyPond-Quiz
+- 25.11.2025 Lilypond und Pythongrundlagen (online)
 WER WAS GENAU?
 ## Termin 3
-- 17.01.2025 Workshop in Präsenz (Besprechungsraum 1. Stock über Tebbi)
-- 18.01.2025 Workshop in Präsenz (R219)
+- 01.12.2025 Workshop in Präsenz (online)
+- 02.12.2025 Workshop in Präsenz (online)
 
 
 ## Benötigte Software für Teilnehmende (Vorbereitung) und Anleitung
@@ -84,7 +86,7 @@ BESCHREIBUNG FEHLT NOCH
 
 ### Mögliche Zeitplan für den ersten Block
 
-#### 10.01.2025
+#### 24.11.2025
 
 | Uhrzeit | Thema | Vortragender |
 | ------  | ----- | ------------ |
@@ -101,7 +103,7 @@ BESCHREIBUNG FEHLT NOCH
 | 16:00 - 16:10 | Zusammenfassung und Feedback | Benjamin  |
 
 
-#### 11.01.2025
+#### 25.11.2025
 | Uhrzeit | Thema | Vortragender |
 | ------  | ----- | ------------ |
 | 10:00 - 10:20 | Recap und Beantwortung offener Fragen | Martin + Benjamin  |
