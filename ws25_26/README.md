@@ -19,11 +19,11 @@
 Entwicklung individueller Notenübungen mit digitalen Werkzeugen (Python und LilyPond) zur künstlerisch-pädagogischen Anwendung 
 Vermitteln von Grundkenntnissen im Programmieren in Python und Score-Rendering mit LilyPond am praktischen Beispiel des Erstellens individualisierter Notenübungen für verschiedene Instrumente. Ziel ist es u.a. durch digitale Mittel dynamisierte Übungen zu konkreten Problemstellungen z.B. für die eigene Lehrtätigkeit oder den eigenen Gebrauch entwickeln zu können.
 
--- Einführung, thematischer Background, verwendete Tools
--- Professioneller Notensatz mit LilyPond
--- Einführung in die Grundlagen der Programmierung mit Python
--- Dynamisierung und Parametrisierung von Notenübungen mit Python und LilyPond
--- Grundlagen der datengetriebenen Komposition (mit Übungsdaten, Wetterdaten etc.)
+- Einführung, thematischer Background, verwendete Tools
+- Professioneller Notensatz mit LilyPond
+- Einführung in die Grundlagen der Programmierung mit Python
+- Dynamisierung und Parametrisierung von Notenübungen mit Python und LilyPond
+- Grundlagen der datengetriebenen Komposition (mit Übungsdaten, Wetterdaten etc.)
 
 - Projektbasiert: Jeder soll mit einer konkreten Aufgabenstellung kommen, z.b. "Mein Schüler hat Probleme mit der Ausführung von Akzenten" oder "Ich brauche Einspielübung für Saxophon" 
 
@@ -31,7 +31,7 @@ Vermitteln von Grundkenntnissen im Programmieren in Python und Score-Rendering m
 
 - Akzentübungsbeispiel zeigen. 
 
-Aufgabe: Jeder überlege sich seinen konkreten Anwendungsfall bis zum 10.01. Bitte gleichzeitig den künstlerisch-pädagogischen Aspekt oder Trainingseffekt bedenken. 
+**Aufgabe:** Jeder überlege sich seinen konkreten Anwendungsfall bis zum 10.01. Bitte gleichzeitig den künstlerisch-pädagogischen Aspekt oder Trainingseffekt bedenken. 
 
 Außerdem Software runterladen und installieren. 
 
