@@ -93,13 +93,13 @@ BESCHREIBUNG FEHLT NOCH
 | 10:00 - 10:10 | Begrüßung und kurzer Überblick |  Martin |
 | 10:10 - 10:30 | Einführungspräsentation plus Quiz | Martin  |
 | 10:30 - 10:50 | Setup der Teilnehmenden prüfen (bzw. Pause wenn alles läuft) | Martin & Benjamin  |
-| 10:50 - 11:30 | Erste Schritte in LilyPond mit Frescobaldi (evtl. basierend auf [LilyPond-Doku](https://lilypond.org/doc/v2.23/Documentation/learning/index#top) und [LearnLilyPond YouTube-Course](https://www.youtube.com/playlist?list=PLHi8BvxILUV6x9FqEmZiYrEj6VMGmTKjt)| Martin |
+| 10:50 - 11:30 | Erste Schritte in LilyPond mit Frescobaldi (evtl. basierend auf [LilyPond-Doku](https://lilypond.org/doc/v2.23/Documentation/learning/index#top) und [LearnLilyPond YouTube-Course](https://www.youtube.com/playlist?list=PLHi8BvxILUV6x9FqEmZiYrEj6VMGmTKjt)| Martin | Gemeinsam
 | 11:30 - 11:40 | *kurze Pause* |
-| 11:40 - 12:30 | Erste Schritte in LilyPond mit Frescobaldi | Martin |
+| 11:40 - 12:30 | Erste Schritte in LilyPond mit Frescobaldi | Martin | Aufgabe
 | 12:30 - 13:30 | *Mittagspause* |  |
-| 13:30 - 15:00 | Projekt Klopfübungen (ohne Python) | Benjamin | 
+| 13:30 - 15:00 | Projekt Würfelspiel Noten schreiben (ohne Python) | Martin | 
 | 15:00 - 15:20 | *kurze Pause* | 
-| 15:20 - 16:00 | Projekt Klopfübungen (ohne Python) | Benjamin |
+| 15:20 - 16:00 | Fortsetzung | Benjamin |
 | 16:00 - 16:10 | Zusammenfassung und Feedback | Benjamin  |
 
 
@@ -111,7 +111,7 @@ BESCHREIBUNG FEHLT NOCH
 | 10:40 - 11:30 | Einführung in Python | Benjamin |
 | 11:30 - 11:40 | *kurze Pause*  |   |
 | 11:40 - 12:10 | Einführung in Python | Benjamin |
-| 12:10 - 12:30 | Übungsaufgaben | Teilnehmende |
+| 12:10 - 12:30 | Würfelspiel mit Python | Benjamin |
 | 12:30 - 13:30 | *Lunch Break* |  |
 | 13:30 - 14:15 | Live-Coding LilyPond + Python (Klopfübungen dynamisch) | Benjamin |
 | 14:15 - 14:30 | *kurze Pause* |  |
