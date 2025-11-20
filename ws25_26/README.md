@@ -113,8 +113,7 @@ BESCHREIBUNG FEHLT NOCH
 | 11:40 - 12:10 | Einführung in Python | Benjamin |
 | 12:10 - 12:30 | Würfelspiel mit Python | Benjamin |
 | 12:30 - 13:30 | *Lunch Break* |  |
-| 13:30 - 14:15 | Live-Coding LilyPond + Python (Klopfübungen dynamisch) | Benjamin |
+| 13:30 - 14:15 | Würfelspiel mit Python  | Benjamin |
 | 14:15 - 14:30 | *kurze Pause* |  |
-| 14:30 - 15:15 | Live-Coding LilyPond + Python (Klopfübungen dynamisch) | Benjamin |
-| 15:15 - 15:45 | Übungsaufgaben + Vorstellen | Teilnehmende |
+| 14:15 - 15:45 | Anfagen mit Projekte | Teilnehmende |
 | 15:45 - 16:10 | Zusammenfassung und Feedback | Martin & Benjamin |
